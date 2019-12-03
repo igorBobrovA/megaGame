@@ -1,0 +1,9 @@
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\bin\Debug\megaGame.exe.config
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\bin\Debug\megaGame.exe
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\bin\Debug\megaGame.pdb
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\obj\Debug\megaGame.csprojAssemblyReference.cache
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\obj\Debug\megaGame.Form1.resources
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\obj\Debug\megaGame.Properties.Resources.resources
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\obj\Debug\megaGame.csproj.GenerateResource.cache
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\obj\Debug\megaGame.exe
+C:\Users\Сигма-М-1\Desktop\igooooooooor\func\megaGame\megaGame\megaGame\obj\Debug\megaGame.pdb
