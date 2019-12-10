@@ -87,5 +87,23 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="cubs\cub1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cubs\cub2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cubs\cub3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cubs\cub4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cubs\cub5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cubs\cub6.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

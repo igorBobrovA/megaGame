@@ -48,8 +48,7 @@ namespace megaGame
 
         public void cub(int number)
         {
-                //Label label1 = new Label();
-                //Image image1 = Image.FromFile("C:.Users.1.Desktop.123.megaGame.megaGame.megaGame.cubs.cub1.png");
+            pictureBox1.Image = ("C:.Users.1.Desktop.123.megaGame.megaGame.megaGame.cubs.cub1.png");
                 if (number == 1)
                 {
 
@@ -74,8 +73,6 @@ namespace megaGame
                 {
 
                 }
-                //label1.Size = new Size(image1.Width, image1.Height);
-                //label1.Image = image1;
         }
         
 
